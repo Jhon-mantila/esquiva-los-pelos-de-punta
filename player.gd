@@ -48,4 +48,4 @@ func _on_body_entered(body):
 func start(pos):
 	position = pos
 	show()
-	$CollisionShape2D.disabled = false
+	$CollisionShape2D.disabled = false 
